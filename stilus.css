@@ -1,0 +1,64 @@
+h1,h2 {
+    text-align: center;
+    
+}
+
+body{
+    color: rgb(22, 85, 3);
+    background-image: url("erdo.jpg");
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.link {
+    color: rgb(22, 85, 3);
+}
+
+.kepek {
+    align-self: center;
+    padding: 5%;
+}
+
+.kepek img{
+    max-height: 200px;
+    width: auto;
+}
+
+.tablazat{
+    color: darkgreen;
+    text-align: center;
+    align-self: center;
+    border: 1px solid darkgreen;
+    width:auto; 
+    margin: 0 auto 0 auto;
+}
+
+.tablazat td, th{
+    border: 1px solid darkgreen;
+    width: auto ; 
+    padding: 10px;
+}
+
+.jobb{
+    text-align: right;
+}
+
+.tablaAlatt{
+    text-align: center;
+}
+
+
+#jobbra{
+    float: right;
+   text-align: center;   
+}
+
+ #jobbra img{
+     height: 100px;
+     width: auto;
+}
+
+#vonal{    
+    height: 10px;
+    background-color: rgb(22, 85, 3);
+}
